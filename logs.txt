@@ -1,0 +1,135 @@
+
+
+[11/07/2024, 18:07:04] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+
+[11/07/2024, 18:07:07] [ERROR] [v1.2.1]
+TypeError: Cannot read properties of undefined (reading 'Type')
+    at module.exports (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\events\ready.js:45:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[11/07/2024, 18:07:51] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:07:53] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:07:53] [READY] Bot is now ready!
+
+[11/07/2024, 18:08:45] [unhandledRejection] [v1.2.1]
+DiscordAPIError[50013]: Missing Permissions
+    at handleErrors (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:730:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1133:23)
+    at async SequentialHandler.queueRequest (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:963:14)
+    at async _REST.request (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1278:22)
+    at async GuildMemberRoleManager.add (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\src\managers\GuildMemberRoleManager.js:131:7)
+
+[11/07/2024, 18:09:24] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:09:26] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:09:26] [READY] Bot is now ready!
+
+[11/07/2024, 18:11:21] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:11:23] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:11:23] [READY] Bot is now ready!
+
+[11/07/2024, 18:16:40] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:16:42] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:16:42] [READY] Bot is now ready!
+
+[11/07/2024, 18:43:03] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+
+[11/07/2024, 18:43:05] [ERROR] [v1.2.1]
+C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\commands\license.js:35
+        .addStringOption(option => option.setName('duration').setDescription('Duration for the license (e.g., 1d 15h, 10m, 30d)').setRequired(true)))
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ')'
+    at internalCompileFunction (node:internal/vm:76:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1283:20)
+    at Module._compile (node:internal/modules/cjs/loader:1328:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at loadCommands (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\utils.js:37:25)
+    at Client.<anonymous> (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\utils.js:45:11)
+
+[11/07/2024, 18:43:05] [ERROR] [v1.2.1]
+TypeError: Cannot read properties of undefined (reading 'Type')
+    at module.exports (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\events\ready.js:45:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[11/07/2024, 18:43:33] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+
+[11/07/2024, 18:43:35] [ERROR] [v1.2.1]
+TypeError: Cannot read properties of undefined (reading 'Type')
+    at module.exports (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\events\ready.js:45:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[11/07/2024, 18:43:55] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+
+[11/07/2024, 18:43:57] [ERROR] [v1.2.1]
+TypeError: Cannot read properties of undefined (reading 'Type')
+    at module.exports (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\events\ready.js:45:36)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+[11/07/2024, 18:44:06] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:44:08] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:44:08] [READY] Bot is now ready!
+
+[11/07/2024, 18:45:07] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:45:09] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:45:09] [READY] Bot is now ready!
+
+[11/07/2024, 18:52:05] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:52:07] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:52:07] [READY] Bot is now ready!
+
+[11/07/2024, 18:56:50] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 18:56:52] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 18:56:52] [READY] Bot is now ready!
+
+[11/07/2024, 19:19:55] [STARTING] Attempting to start the bot..
+NodeJS Version: v18.20.2
+Bot Version: 1.2.1
+[11/07/2024, 19:19:57] [SERVER] Server has started on port 3000.
+
+[11/07/2024, 19:19:57] [READY] Bot is now ready!
+
+[11/07/2024, 19:20:52] [unhandledRejection] [v1.2.1]
+DiscordAPIError[10015]: Unknown Webhook
+    at handleErrors (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:730:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1133:23)
+    at async SequentialHandler.queueRequest (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:963:14)
+    at async _REST.request (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\node_modules\@discordjs\rest\dist\index.js:1278:22)
+    at async WebhookClient.send (C:\Users\coryb\source\repos\YouSeeMeRunning2\DrakoLicensesLite\node_modules\discord.js\src\structures\Webhook.js:224:15)

@@ -9,7 +9,7 @@
 # BOT INFORMATION
 # You must not leave them as blank!
 # ===========================================================================
-Token: "MTM4NDU1NDcxODI2MDQ5ODY5NA.GntkLz.0v7DIz6GJljuRFQbg0gp_Fpo3TVQpS8HNLZKP4" # If you don't know how to get it, Look at our docs: https://docs.drakodevelopment.net
+Token: "" # If you don't know how to get it, Look at our docs: https://docs.drakodevelopment.net
 BotName: "BADGE"
 GuildID: "1384554904068161647" # This is your server's ID, Right click on your server icon and copy ID
 EmbedColors: "#5e99ff" # Hex color!

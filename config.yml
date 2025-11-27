@@ -15,7 +15,7 @@ GuildID: "1384554904068161647" # This is your server's ID, Right click on your s
 EmbedColors: "#5e99ff" # Hex color!
 LogCommands: false # If this is enabled it will log all the commands executed to the terminal
 Statistics: true # Show statistics in terminal when the bot starts? (This does not affect the stats command or anything else)
-MongoURI: "mongodb+srv://ariyanxyt0_db_user:qcNRReF6rk0k7fW7@clusteris.idejflq.mongodb.net/?appName=Clusteris" # MongoDB Connection String, How to get: https://docs.drakodevelopment.net/misc/mongodb-setup
+MongoURI: "mongodb://ariyanxyt0_db_user:qcNRReF6rk0k7fW7@clusteris.idejflq.mongodb.net/?appName=Clusteris" # MongoDB Connection String, How to get: https://docs.drakodevelopment.net/misc/mongodb-setup
 
 # ===========================================================================
 # BOT ACTIVITY
